@@ -1,8 +1,8 @@
+'use strict';
+
 /**
  * @description Sets up the restify handlers.
  */
-
-'use strict';
 
 let errors = require('../error');
 let httpStatusCodes = require('http-status');
