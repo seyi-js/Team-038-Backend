@@ -1,0 +1,31 @@
+{
+  "name": "team-038-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "custom-error-generator": "^7.0.0",
+    "express": "^4.17.1",
+    "http-status": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "restify": "^8.5.1",
+    "restify-plugins": "^1.6.0",
+    "turbo-logger": "^1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuildForSDGCohort2/Team-038-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuildForSDGCohort2/Team-038-Backend/issues"
+  },
+  "homepage": "https://github.com/BuildForSDGCohort2/Team-038-Backend#readme"
+}
